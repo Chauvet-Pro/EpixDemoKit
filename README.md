@@ -14,7 +14,7 @@ The Epix Demo Kit comes with the following items packed in a custom flight case:
 * 1pc Epix Line Straight Interlocking Bracket (included when purchasing Epix Line fixtures)
 
 ## KLSTR Software
-Download the latest release of KLSTR here: [Epix Mapping Software - KLSTR (Windows)](https://github.com/Chauvet-Pro/EPIXD4IP/releases/download/Software/KLSTR.ctrl-windows_12-01-26.zip).
+Download the latest release of KLSTR here: [Epix Mapping Software - KLSTR (Windows)](https://github.com/Chauvet-Pro/EPIXD4IP/releases/tag/KLSTR_V1_1_4_Windows#:~:text=KLSTR.V1.1.4.Windows.zip).
 
 ## User Manual
 Detailed update instructions are available in the [User Manual](https://chauvetprofessional.com/product/epix-d4-ip/#downloads).
