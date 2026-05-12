@@ -4,7 +4,7 @@ The Epix Demo Kit ships with the smaller 50cm version due to size contraints and
 
 ## How to Demo
 
-The Epix DEmo Kit comes with the following items packed in a custom flight case:
+The Epix Demo Kit comes with the following items packed in a custom flight case:
 * 1pc Epix Demo Driver
 * 1pc Epix Line 10 IP S (Square Black Stealth Filter Fitted)
 * 1pc Epix Line 10 IP S (Round Milky White Filter Fitted)
@@ -16,4 +16,10 @@ The Epix DEmo Kit comes with the following items packed in a custom flight case:
 ## KLSTR Software
 Download the latest release of KLSTR here: [Epix Mapping Software - KLSTR (Windows)](https://github.com/Chauvet-Pro/EPIXD4IP/releases/download/Software/KLSTR.ctrl-windows_12-01-26.zip).
 
+## User Manual
 Detailed update instructions are available in the [User Manual](https://chauvetprofessional.com/product/epix-d4-ip/#downloads).
+
+## More Info
+For further details about the product, see the downloads section of the web product page:
+[Downloads](https://chauvetprofessional.com/product/epix-d4-ip/#downloads)
+
