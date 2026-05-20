@@ -2,7 +2,7 @@
 
 The Epix Demo Kit ships with the smaller 50cm version due to size contraints and convenience with transportation. Chauvet offers a 100cm/1meter long version of the product.
 
-## How to Demo
+## What's Included
 
 The Epix Demo Kit comes with the following items packed in a custom flight case:
 * 1pc Epix Demo Driver
