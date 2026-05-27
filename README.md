@@ -13,6 +13,11 @@ The Epix Demo Kit comes with the following items packed in a custom flight case:
 * 1pc Epx Mount Spigot Bracket (sold separately)
 * 1pc Epix Line Straight Interlocking Bracket (included when purchasing Epix Line fixtures)
 
+## Operation Mode
+The Epix Demo Kit ships preconfigured with the internal Effects engine running. This cycles every 10 seconds to a new randomized effect. When you plug in the power cord, this will start running. 
+
+If you want control, you can plug into the front ethernet/EtherCON/KON port of the Demo Kit Driver. This can be changed from the driver display or from the KLSTR software. 
+
 ## KLSTR Software
 Download the latest release of KLSTR here
 * [Epix Mapping Software - KLSTR (Windows)](https://github.com/Chauvet-Pro/EPIXD4IP/releases/download/KLSTR_V1_1_4_Windows/KLSTR.V1.1.4.Windows.zip).
